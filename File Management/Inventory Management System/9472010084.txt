@@ -1,0 +1,8 @@
+Ashish          2025-05-13 21:58:29.687173 
+akumar@gamil.com
+Product Name   | Price   | Quantity   | Sub Total
+5 Star         | 10      | 10         | 100
+Milky Bar      | 5       | 4          | 20
+-------------------------------------------------
+Total                                 | 120
+

@@ -1,4 +1,4 @@
-1,5 Star,10,80
-2,Cadbury,10,115
-3,Milky Bar,5,26
-4,Crispello,40,91
+1,5 Star,10,68
+2,Cadbury,10,135
+3,Milky Bar,5,34
+4,Crispello,40,110

@@ -1,0 +1,5 @@
+Shubh          2025-05-13 18:11:33.501215 
+Shubh@gmail.com
+Product Name   | Price   | Quantity   | Sub Total
+Milky Bar      | 5       | 12         | 60
+----------------------------------------Total                                  | 60

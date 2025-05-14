@@ -1,0 +1,16 @@
+Shubhranshu          2025-05-13 18:23:56.369815 
+shubhranshu@gmail.com
+Product Name   | Price   | Quantity   | Sub Total
+Cadbury        | 10      | 15         | 150
+Crispello      | 40      | 7          | 280
+5 Star         | 10      | 11         | 110
+-------------------------------------------------
+Total                                 | 540
+
+Ashish          2025-05-13 18:25:11.230848 
+shubhranshuranjan@gmail.com
+Product Name   | Price   | Quantity   | Sub Total
+5 Star         | 10      | 11         | 110
+Crispello      | 40      | 3          | 120
+-------------------------------------------------
+Total                                 | 230

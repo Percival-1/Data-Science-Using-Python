@@ -1,0 +1,6 @@
+Shubhranshu          2025-05-13 18:19:29.208295 
+Shubh@gmail.com
+Product Name   | Price   | Quantity   | Sub Total
+Milky Bar      | 5       | 12         | 60
+----------------------------------------
+Total                                  | 60
